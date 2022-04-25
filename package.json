@@ -1,0 +1,22 @@
+{
+  "name": "@kmccullough/using-touch-layout",
+  "version": "1.0.0",
+  "description": "Adds one of two classes to body to indicate whether touch input is currently in use",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kmccullough/using-touch-layout"
+  },
+  "browser": "index.js",
+  "exports": {
+    "import": "./index.mjs",
+    "require": "./index.js"
+  },
+  "keywords": [
+    "utility",
+    "touch",
+    "input",
+    "layout"
+  ],
+  "author": "Kerry McCullough <subone@subone.org> http://subone.org/",
+  "license": "MIT"
+}
