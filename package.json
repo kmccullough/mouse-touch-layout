@@ -1,6 +1,6 @@
 {
   "name": "@kmccullough/using-touch-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds one of two classes to body to indicate whether touch input is currently in use",
   "repository": {
     "type": "git",
